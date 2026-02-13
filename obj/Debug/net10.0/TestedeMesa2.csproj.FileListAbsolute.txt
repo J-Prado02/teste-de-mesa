@@ -1,0 +1,14 @@
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\bin\Debug\net10.0\TestedeMesa2.exe
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\bin\Debug\net10.0\TestedeMesa2.deps.json
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\bin\Debug\net10.0\TestedeMesa2.runtimeconfig.json
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\bin\Debug\net10.0\TestedeMesa2.dll
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\bin\Debug\net10.0\TestedeMesa2.pdb
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\obj\Debug\net10.0\TestedeMesa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\obj\Debug\net10.0\TestedeMesa2.AssemblyInfoInputs.cache
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\obj\Debug\net10.0\TestedeMesa2.AssemblyInfo.cs
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\obj\Debug\net10.0\TestedeMesa2.csproj.CoreCompileInputs.cache
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\obj\Debug\net10.0\TestedeMesa2.dll
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\obj\Debug\net10.0\refint\TestedeMesa2.dll
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\obj\Debug\net10.0\TestedeMesa2.pdb
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\obj\Debug\net10.0\TestedeMesa2.genruntimeconfig.cache
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\obj\Debug\net10.0\ref\TestedeMesa2.dll

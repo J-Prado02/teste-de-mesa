@@ -1,0 +1,14 @@
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\bin\Debug\net10.0\TestedeJuros.exe
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\bin\Debug\net10.0\TestedeJuros.deps.json
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\bin\Debug\net10.0\TestedeJuros.runtimeconfig.json
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\bin\Debug\net10.0\TestedeJuros.dll
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\bin\Debug\net10.0\TestedeJuros.pdb
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\obj\Debug\net10.0\TestedeJuros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\obj\Debug\net10.0\TestedeJuros.AssemblyInfoInputs.cache
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\obj\Debug\net10.0\TestedeJuros.AssemblyInfo.cs
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\obj\Debug\net10.0\TestedeJuros.csproj.CoreCompileInputs.cache
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\obj\Debug\net10.0\TestedeJuros.dll
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\obj\Debug\net10.0\refint\TestedeJuros.dll
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\obj\Debug\net10.0\TestedeJuros.pdb
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\obj\Debug\net10.0\TestedeJuros.genruntimeconfig.cache
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeJuros\obj\Debug\net10.0\ref\TestedeJuros.dll

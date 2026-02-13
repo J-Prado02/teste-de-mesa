@@ -1,0 +1,4 @@
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeRendimentos\obj\Debug\net10.0\TestedeRendimentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeRendimentos\obj\Debug\net10.0\TestedeRendimentos.AssemblyInfoInputs.cache
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeRendimentos\obj\Debug\net10.0\TestedeRendimentos.AssemblyInfo.cs
+C:\Users\joaoprado\Documents\Code\TestedeMesa2\TestedeRendimentos\obj\Debug\net10.0\TestedeRendimentos.csproj.CoreCompileInputs.cache
